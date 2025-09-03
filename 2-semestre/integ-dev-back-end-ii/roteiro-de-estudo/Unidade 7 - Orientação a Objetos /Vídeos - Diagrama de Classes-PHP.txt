@@ -1,0 +1,17 @@
+Herança:
+https://www.youtube.com/playlist?list=PLjDOi42CBBjEsTb2SRYN-fMces4vYvKcm
+
+Dependência:
+https://www.youtube.com/playlist?list=PLjDOi42CBBjHz7unpNcS17P7Vxp8CGdtY
+
+Composição:
+https://www.youtube.com/playlist?list=PLjDOi42CBBjGoNb_xOJ0NuXo8CMQTLQng
+
+Associação:
+https://www.youtube.com/playlist?list=PLjDOi42CBBjFR9SOlUx7KIrqD_mnn6cru
+
+Agregação:
+https://www.youtube.com/playlist?list=PLjDOi42CBBjGiV_cpFL4P7wWL1LTNzZaj
+
+Interface:
+https://www.youtube.com/playlist?list=PLjDOi42CBBjEhsZPAgrEy0q5VpHOf1ovX

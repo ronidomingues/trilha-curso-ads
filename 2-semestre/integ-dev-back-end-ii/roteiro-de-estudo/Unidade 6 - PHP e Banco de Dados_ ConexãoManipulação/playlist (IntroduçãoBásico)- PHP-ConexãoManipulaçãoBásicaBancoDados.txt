@@ -1,0 +1,16 @@
+Introdução à Manipulação de Dados SQL Usando PHP para Iniciantes
+(Professora Kellen Nery)
+
+
+https://youtube.com/playlist?list=PLjDOi42CBBjHuodX9JkbJgmlmTj_ALG0j&si=zf5jW-rr_v1MP1gM
+
+
+Esta playlist é uma introdução prática à manipulação de dados em bancos de dados utilizando SQL e PHP, com foco nas operações básicas de DML (Data Manipulation Language): INSERT, UPDATE, DELETE e SELECT. Os vídeos demonstram como conectar-se a um banco de dados usando MySQLi e PDO. O foco está totalmente no backend e na manipulação de dados, abstraindo completamente a utilização de front-end elaborado e validações complexas. Ideal para iniciantes que desejam aprender a interagir com bancos de dados em seus projetos PHP de forma simples e direta.
+
+----------------------------------------------------------
+
+MATERIAL EXTRA:
+Cadastro Simples com PHP e MySQL - CRUD
+(Apresentando dados em um FrontEnd mais elaborado)
+
+https://www.youtube.com/playlist?list=PL4Q2E-0Q_2SF_vOHB14c2Ao-5UQv0yLcB
