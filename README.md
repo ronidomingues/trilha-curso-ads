@@ -4,27 +4,52 @@ Este repositório serve como um arquivo e portfólio dos meus estudos, trabalhos
 
 ---
 
-### Estrutura do Repositório
+## Estrutura do Repositório
 
-O conteúdo está organizado da seguinte forma:
+### O conteúdo está organizado da seguinte forma
 
 ```bash
-trilha-curso-ads
+trilha-curso-ads/
 ├── 1-semestre
 ├── 2-semestre
 │   ├── av-formadoras
-│   │   ├── av-1-quiz-back-end
-│   │   ├── av-2-modelagem-de-dados
-│   │   ├── av-3-
-│   │   ├── av-4-
-│   │   └── notas_avaliacoes_formadoras_back_end.xlsx
+│   │   ├── av-1
+│   │   │   ├── avaliacao_formadora_1_back_end.pdf
+│   │   │   └── README.md
+│   │   ├── av-2
+│   │   │   └── avaliacao_formadora_2_back_end.pdf
+│   │   ├── av-3
+│   │   │   └── avaliacao_formadora_3_back_end.pdf
+│   │   └── av-4
+│   │       └── avaliacao_formadora_4_back_end.pdf
 │   ├── integ-dev-back-end-i
 │   ├── integ-dev-back-end-ii
 │   │   ├── materiais
+│   │   │   ├── algoritmo_sequencial_python_php_c#.mp4
+│   │   │   ├── animacao_fluxo_sistema_web.mp4
+│   │   │   ├── animacao_front_x_back.mp4
+│   │   │   ├── apresentacao_do_modulo_2025_2_back_end.pdf
+│   │   │   ├── links_dos_videos_no_drive.md
+│   │   │   └── links _extras.txt
 │   │   ├── revisao-de-logica-de-programacao
+│   │   │   ├── 1_exercicio_sequencial.pdf
+│   │   │   ├── 2_exercicio_condicional.pdf
+│   │   │   ├── 3_exercicio_repeticao.pdf
+│   │   │   ├── 4_exercicios_vetores_matrizes.pdf
+│   │   │   └── link_curso_algoritmo.txt
 │   │   ├── roteiro-de-estudo
+│   │   │   ├── Unidade 1 - Instalações e preparação do ambiente
+│   │   │   ├── Unidade 2 - Noções Básicas de PHP
+│   │   │   ├── Unidade 3 - Integração FrontEnd com BackEnd
+│   │   │   ├── Unidade 4 - Troca de dados com o servidor com AJAX
+│   │   │   ├── Unidade 5 - Modelagem de Dados e SQL
+│   │   │   ├── Unidade 6 - PHP e Banco de Dados_ ConexãoManipulação
+│   │   │   ├── Unidade 7 - Orientação a Objetos 
+│   │   │   └── Unidade 8 - Construindo Projetos em MVC sem Frameworks
 │   │   └── templates-inspiracoes
+│   │       └── admin_lte_master
 │   └── projeto-dev-back-end
+├── LICENSE
 └── README.md
 ```
 
