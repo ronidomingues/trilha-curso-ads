@@ -1,5 +1,10 @@
 # Trilha de Estudo em Análise e Desenvolvimento de Sistemas
 
+> ⚠️ **Aviso Importante**  
+> Este repositório tem finalidade **exclusivamente educacional e de uso pessoal**.  
+> Alguns arquivos aqui reunidos (como livros e artigos em PDF) possuem **direitos autorais** e estão disponíveis apenas para **consulta**.  
+> É proibida a venda, redistribuição ou modificação destes materiais.
+
 Este repositório serve como um arquivo e portfólio dos meus estudos, trabalhos, projetos, atividades e materiais de apoio do curso de Análise e Desenvolvimento de Sistemas. O conteúdo está organizado por semestre, refletindo minha jornada acadêmica.
 
 ---
