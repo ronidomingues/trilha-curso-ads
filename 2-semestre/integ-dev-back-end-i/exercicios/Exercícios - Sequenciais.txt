@@ -1,0 +1,66 @@
+Exercício 1:
+
+
+Uma imobiliária situada no Rio de Janeiro vende apenas terrenos retangulares. 
+Implemente um algoritmo em PHP que leia as dimensões de um terreno e 
+depois exibir a área do terreno.
+
+
+
+Exercício 2:
+
+Implemente um algoritmo em PHP que calcule o valor em Reais, 
+correspondente aos dólares que um turista possui no cofre do hotel. O 
+programa deve solicitar os seguintes dados: Quantidade de dólares guardados 
+no cofre e cotação do dólar naquele dia.
+
+
+Exercício 3:
+
+
+A Loja Baratão Demais está vendendo seus produtos em 5 (cinco) prestações 
+sem juros. Faça um algoritmo em PHP que receba um valor de uma compra e mostre o 
+valor das prestações 
+
+
+Exercício 4:
+
+A padaria Gostopão vende uma certa quantidade de pães franceses e uma 
+quantidade de broas a cada dia. Cada pãozinho custa R$ 1,10 e a broa custa 
+R$ 2,50. Ao final do dia, o dono quer saber quanto arrecadou com a venda dos 
+pães e broas (juntos), e quanto deve guardar numa conta de poupança (10% 
+do total arrecadado). Supondo que você foi contratado para fazer os cálculos 
+para o dono, om base nestes fatos, desenvolva um algoritmo em PHP que 
+leia as quantidades de pães e de broas, e depois calcular e exiba os dados 
+solicitados.
+
+
+Exercício 5:
+
+
+O restaurante a quilo Comilança cobra R$15,00 por cada quilo de refeição. 
+Escreva um algoritmo em PHP que leia o peso do prato montado pelo cliente 
+(em quilos) e imprima o valor a pagar. Assuma que a balança já desconte o 
+peso do prato. 
+
+
+Exercício 6:
+
+
+Uma Consultoria paga R$10,00 por hora normal trabalhada, e R$22,00 por 
+hora extra. Implemente um algoritmo em PHP para calcular e imprimir o 
+salário bruto e o salário líquido de um determinado funcionário. Considere que 
+o salário líquido é igual ao salário bruto descontando-se 18% de impostos. 
+
+
+
+Exercício 7:
+
+A granja situada em Friburgo possui um controle automatizado de cada frango 
+da sua produção. No pé direito do frango há um anel com um chip de 
+identificação; no pé esquerdo são dois anéis para indicar o tipo de alimento 
+que ele deve consumir. Sabendo que o anel com chip custa R$8,00 e o anel 
+de alimento custa R$ 5,30, desenvolva um algoritmo em PHP para calcular 
+o gasto total da granja para marcar todos os seus frangos. 
+
+

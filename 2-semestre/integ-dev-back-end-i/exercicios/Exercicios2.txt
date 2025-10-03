@@ -1,0 +1,213 @@
+Exercícios
+
+
+=====================================================================================================================
+
+TOMADA DE DECISÃO
+
+====================================================================================================================
+
+Exercício 1: 
+
+
+Leia  dois números inteiros, calcule a soma deles e se o resultado da soma for 
+maior que 10, então imprima o resultado. 
+
+
+Exercício 2: 
+
+
+Faça um programa que receba dois números inteiros e mostre o maior. 
+
+
+Exercício 3: 
+
+
+Faça um programa que receba duas notas de um aluno, calcule e mostre a média 
+aritmética. Se a media for maior que 7, então deverá imprimir aluno aprovado, 
+senão o aluno está reprovado. 
+
+
+Exercício 4: 
+
+
+A empresa XKW Ltda. Concedeu um bônus de 20 por cento do valor do salário 
+a todos os funcionários com tempo de trabalho na empresa igual ou superior a 
+cinco anos e de dez por cento aos demais. Calcular e exibir o valor do bônus. 
+Faça o algoritmo em pseudocódigo (depois em php). 
+
+
+Exercício 5:  
+
+Considere  que se o salario for maior ou igual a 1200,00 reais e a idade for maior 
+ou igual a 18 anos, então ganhará uma  bonificação de 500,00. Caso contrario 
+imprima: não há bonificação. Faça um programa em pseudocódigo (depois em 
+php) que entre com os dados do funcionário e verifique se as duas condições 
+são atendidas. 
+
+
+
+Exemplo 6:  
+
+Crie um novo aplicativo que capture  o nome, peso e altura de um paciente, e 
+que calcule seu IMC (Indice de Massa Corporal). 
+
+• A formula para a realização do calculo é a que segue: 
+
+• IMC = Peso / (Altura*Altura) 
+
+▪ O usuário informa o nome do paciente. 
+
+▪ O usuário informa o peso do paciente. 
+
+▪ O usuário informa  a altura do paciente 
+
+▪ O aplicativo deve exibir: o nome do paciente,  peso do paciente e  altura 
+do paciente, o IMC do paciente e a categoria a que pertence o IMC do 
+paciente, de acordo com a tabela a seguir 
+
+IMC 
+
+Categoria  
+
+Até 18,4 		| Abaixo do peso 
+De 18,5 a 24,9 		| Peso normal 
+De 25,0 a 29,9 		| Sobrepeso 
+De 30,0 a 34,9 		|Obesidade grau I
+
+
+=======================================================================================================================
+
+ESTRUTURA DE REPETIÇÃO ( LOOP ) - ENQUANTO FAÇA
+
+=======================================================================================================================
+
+Exercício 1: 
+
+Um empresa  de produtos alimentício possui cinco pedidos. 
+Cada pedido foi registrado com um número em ordem crescente, 
+a partir de 1. Para cada pedido foi registrado o número 
+do produto (tipo inteiro), a quantidade do produto 
+(tipo inteiro), e o preço unitário de cada produto 
+(tipo float). Faça um programa em php que calcule e  
+mostre o preço total dos produtos a serem vendidos.
+
+
+Exercício 2: 
+
+Faça um programa que receba o salário de  três funcionários, 
+calcule e mostre o novo salario, acrescido de bonificação.
+
+SALARIO 			BONIFICAÇÃO
+Até R$ 500,00			5% do salário
+Entre R$ 500,00 e R$ 1200,00	12% do salário
+Acima de R$ 1200,00		Sem bonificação
+'''
+
+
+
+
+=======================================================================================================================
+
+ESTRUTURA DE REPETIÇÃO ( LOOP ) - PARA FAÇA
+
+=======================================================================================================================
+
+Exercício 1:
+
+Construir um programa que apresente todos os valores numéricos
+inteiros divisíveis por 4 e menores que 100. 
+A variável que controla o contador do laço deve ser 
+obrigatoriamente iniciada com valor 1.
+
+Exercício 2:
+
+Elaborar um programa em php que leia dois valores para as 
+variáveis A e B. O programa deve somar os dois valores e 
+apresentar o resultado, repetindo a sequencia de cinco vezes. 
+
+Exercício 3:
+
+Elaborar um programa em php que leia a nota de 3 
+alunos da turma, calcule e mostre a media da turma
+
+Exercício 4:
+
+Uma agencia bancária possui dois tipos de investimentos, conforme o  quadro a seguir.
+Faça um  programa em php, que receba o tipo 
+de investimento e seu valor, e calcule e mostre o valor corrigido, 
+para 3 clientes do banco, de acordo com o tipo de investimento.
+
+==================================================
+TIPO     | DESCRIÇÃO          | RENDIMENTO MENSAL
+==================================================
+ 1       | POUPANÇA           |      3%
+ 2       | FUNDOS DE RENDA    |      4%
+         | FIXA               |
+==================================================
+
+
+Exercício 5:
+
+Faça um programa que receba duas notas de cada aluno:
+
+• A mensagem que está na tabela  a seguir:
+
+
+====================================================
+    MÉDIA     	 | ARITMÉTICA MENSAGEM
+====================================================
+Até 3 		 |    Reprovado
+Entre 3 e 7 	 |    Exame
+De 7 para cima   |    Aprovado
+====================================================
+
+O total de alunos aprovados;
+• O total de alunos de exame;
+• O total de alunos reprovados;
+• A media da classe.
+
+========================================================================================================================================
+
+
+
+========================================================================================================================================
+
+FUNÇÕES
+
+=========================================================================================================================================
+
+Exercício 1:
+
+
+Faça um programa contendo uma função que retorne 1 se o número inteiro digitado for positivo ou 0 se for negativo.
+
+
+Exercício 2:
+
+Crie uma função que receba os valores antigos e atual de um produto. Chame uma função que determine o percentual de acréscimo entre esses
+valores. 
+
+
+Exercício 3:
+
+Faça uma função que receba como parâmetro um inteiro no intervalo 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo n = 9).
+
+1
+2	4
+3	6 	9
+4	8	12 	16
+5	10	15	20	25
+6	12	18	24	30	36
+7	14	21	28	35	42	49
+8	16	24	32	40	48	56	64
+9	18	27	36	45	54	63	72	81
+
+
+Exercício 4:
+
+Faça uma função que leia cinco valores inteiros, determine e mostre o maior e o menor deles.
+
+
+
+

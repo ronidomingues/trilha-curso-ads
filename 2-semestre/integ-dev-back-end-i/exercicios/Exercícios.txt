@@ -1,0 +1,114 @@
+1) Elaborar um diagrama E-R para uma seguradora de automóveis
+Entidades: Cliente, Apólice, Carro e Acidentes.
+
+Requisitos:
+a) Um cliente pode ter várias apólices (no mínimo uma);
+b) Cada apólice somente dá cobertura a um carro;
+c) Um carro pode ter zero ou n registros de acidentes a ele.
+
+Atributos:
+a) Cliente: Número, Nome e Endereço;
+b) Apólice: Número e Valor;
+c) Carro: Registro e Marca;
+d) Acidente: Data, Hora e Local;
+
+
+2. Com base nos escopos a seguir, crie um Modelo de Entidade e Relacionamento para cada sistema:
+
+
+ 
+(a) LUCKY RENT-A-CAR
+    O ambiente de negócio da Lucky Rent-A-Car está, obviamente, baseado em seus carros. Um carro
+    foi fabricado por exatamente um fabricante. Um fabricante (nome do fabricante, país do fabricante,
+    nome do representante de vendas, telefone do representante de vendas) fabricou pelo menos um 
+    e geralmente     muitos  dos carros da Lucky. Um carro (número de série do carro, modelo, ano, classe) 
+    pode ter tido muitos eventos de manutenção(número do reparo, data, procedimento, quilometragem, tempo de
+    reparo), mas um carro novo pode não ter tido ainda. Um carro pode não ter sido alugado a qualquer 
+    cliente (mais uma  vez, o caso de um carro novo) ou a muitos clientes. 
+    Um cliente (número do cliente, nome do cliente, endereço do cliente, telefone do cliente) pode ter
+    alugado muitos carros da Lucky, e para estar no ambiente de negócios dela ela tem que ter alugado
+     pelo menos um. Data do Aluguel, Data do Retorno e Custo Total são dados de 
+    interseção do relacionamento muitos-para-muitos entre CARRO e CLIENTE.
+
+(b) GOOD READING BOOKSTORES
+    A Good Reading Bookstores, uma cadeia de livrarias que quer manter registro dos livros que vende, suas
+    editoras, autores e os clientes que os compram. A entidade LIVRO tem quatro atributos: número do livro,
+    é o identificador único, nome do livro, ano de publicação e páginas. Um livro tem exatamente uma editora. 
+    Nome da editora é o identificador único da entidade EDITORA, deseja-se guardar também, a cidade, país, 
+    telefone e o ano de fundação. Uma editora pode ter (e geralmente) publicado muitos livros que a Good Reading 
+    tem seu estoque: entretanto, a Good Reading também quer ser capaz de manter registro de algumas 
+    editoras cujos livros atualmente não existem em seu estoque. 
+
+    Um livro tem que ter pelo menos um autor, mas pode ter muitos (onde neste caso "muitos" significa 
+    alguns, geralmente dois ou três, no máximo). A Good Reading Bookstores tem interesse de guardas as seguintes
+    informações do autores: número do autor, nome do autor, ano de nascimento e ano de falecimento.
+    Para que uma pessoa interesse à Good Reading  como autor, ela tem que ter escrito pelo menos um e 
+    possivelmente muitos livros que a Good Reading comercializa. Perceba que há um relacionamento 
+    muito-para-muitos entre as entidades LIVRO e AUTOR, mas não há dados de interseção. 
+    
+    Um livro que a Good Reading comercializa pode não ter sido comprado por muitos dos seus clientes. 
+    Para que um cliente interesse à Goode Reading ele tem que ter comprado pelo menos um livro e possivelmente
+    (espera-se) muitos. Data, Preço e Quantidade são dados de interseção do relacionamento muitos-para-muitos
+    entre a entidades LIVRO e CLIENTE. 
+
+
+(c) WORLD MUSIC ASSOCIATION
+    A World Music Association (WMA) é uma organização que mantém informações sobre as orquestras (ORQUESTRA: 
+    nome da orquestra, cidade, país, diretor musical) que são membros dela sobre as gravações que elas fizeram. 
+    Cada orquestra tem pelo menos um possivelmente muitos músicos. Um músico pode não trabalhar para uma 
+    orquestra (talvez atualmente ele esteja desempregado, mas a WMA quer manter registro dele, de qualquer forma) 
+    ou trabalhar para apenas uma orquestra. Um músico pode não ter graduação universitário 
+    (TITULO: titulo, universidade, ano) ou pode ter várias. Uma graduação pertence a apenas um músico 
+    (MUSICO: número do músico, nome do músico, instrumento, salário anual). Uma orquestra pode não ter feito
+    qualquer  gravação de uma determinada composição ou pode ter feito várias. Na direção inversa, uma
+    composição pode não ter sido gravada por muitas orquestras. Para uma gravação especifica, notamos o ano
+    da gravação e o preço de varejo como dados de interseção do relacionamento muitos-para-muitos. Um
+    compositor (nome do compositor, país, data de nascimento) pode ter diversas composições mas tem que ter 
+    pelo menos uma para que seja do interesse WMA. Uma composição (COMPOSIÇÃO: nome da composição, ano) está 
+    associada a exatamente um compositor.
+
+
+3) Elaborar um diagrama para uma Indústria.
+
+Entidades: Peças, Depósitos, Fornecedor, Projeto, Funcionário e Departamento.
+
+Requisitos:
+a) Cada Funcionário pode estar alocado a somente um Departamento;
+b) Cada Funcionário pode pertencer a mais de um Projeto;
+c) Um projeto pode utilizar-se de vários Fornecedores e de várias Peças;
+d) Uma Peça pode ser fornecida por vários Fornecedores e atender a vários Projetos;
+e) Um Fornecedor pode atender a vários Projetos e fornecer várias Peças;
+f) Um Depósito pode conter várias Peças;
+g) Deseja-se ter um controle do material utilizado por cada Projeto, identificando inclusive o seu Fornecedor. Gravar as informações de data de Início e Horas Trabalhadas no Projeto.
+
+Atributos:
+a) Peças: Número, Peso e Cor;
+b) Depósito: Número e Endereço;
+c) Fornecedor: Número e Endereço;
+d) Projeto: Número e Orçamento;
+e) Funcionário: Número, Salário e Telefone;
+f) Departamento: Número e Setor. 
+
+
+4) Construir o modelo logico para cada um dos exercícios anteriores.
+
+5) Construir o modelo físico para cada um dos exercícios anteriores.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

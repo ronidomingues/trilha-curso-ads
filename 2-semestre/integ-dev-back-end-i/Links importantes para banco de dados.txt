@@ -1,0 +1,23 @@
+Conteúdo referente a Banco de dados - Modelagem (Conceitual, Lógico e Físico)
+
+
+Banco de Dados - Apresentação
+https://www.youtube.com/watch?v=6HenZN8HvC4&list=PLxI8Can9yAHeZcEzZElhxwsQTf9MaG6sS
+
+Bancos de Dados - Aula 01 - Visão geral sobre banco de dados e motivação
+https://www.youtube.com/watch?v=pmAxIs5U1KI&list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq
+
+
+Ferramenta web para modelagem : BRMW (é só procurar no google)
+https://app.brmodeloweb.com/#!/register
+
+
+
+Modelagem Lógica usando Workbench
+
+MySQL Workbench # Modelo Entidade Relacionamento (MER) - 01 Criando meu primeiro modelo de dados
+https://www.youtube.com/watch?v=ica1CB_S4jE&list=PLfvOpw8k80WoSXjfGFci23SPob_PdvpHx&index=2
+(Os demais vídeos dele irão lhe ajudar a criar os relacionamentos, um para muitos, muitos para muitos)
+
+MySQL/MariaDB - 17 Criando o banco de dados por meio do modelo criado no Workbench
+https://www.youtube.com/watch?v=tkm02iUCj4g&list=PLfvOpw8k80WoSXjfGFci23SPob_PdvpHx&index=11
