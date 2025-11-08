@@ -14,6 +14,11 @@ E para descompactar o mesmo, use o comando:
 
 Após digitar esse comando, será necessário fornecer a senha, porém como dito antes, por questão de direitos autorais, você não a possui.
 
+<details>
+    <summary>PS.:</summary>
+    A senha de descompactação é a mesma usada no usuario comum do Debian.
+</details>
+
 Caso ainda não pssua os softwares `rar` e `unrar`, instale-os, da seguinte forma:
 
 ```bash
